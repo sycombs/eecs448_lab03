@@ -1,0 +1,47 @@
+body
+{
+    background-color: #effdff;
+    background-image: url(background.png);
+    background-size: 10%;
+    background-repeat: repeat;
+}
+
+p
+{
+    background-color: #cefaff;
+    color: #0e545e;
+    font-family: "courier new";
+    font-size: 12pt;
+}
+
+p.dorbabamon
+{
+  background-color: #f3ceff;
+  color: #420556;
+}
+
+h1
+{
+  text-align: center;
+  background-color: #cefaff;
+  color: #0e545e;
+}
+
+h2
+{
+  text-align: center;
+  background-color: #cefaff;
+  color: #0e545e;
+}
+
+a
+{
+  background-color: #cefaff;
+  color: #0e545e;
+}
+
+a:hover
+{
+  background-color: #ffddad;
+  color: #ce8b2d;
+}
